@@ -1,5 +1,5 @@
 # eCommerceBackend
-This project contains the basic implementation of backend microservices required for running an e-commerce website.
+This project contains the basic implementation of microservices required for running an e-commerce website at the backend.
 
 ## Technologies used
 - Java
